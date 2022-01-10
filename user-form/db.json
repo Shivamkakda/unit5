@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "fullName": "Shivam Sharma",
+      "age": "22",
+      "city": "Muradnagar",
+      "department": "Developer",
+      "salary": "222222",
+      "isMarried": true,
+      "id": 1
+    }
+  ]
+}
