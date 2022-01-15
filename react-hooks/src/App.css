@@ -5,8 +5,6 @@
   text-align: center;
 }
 .stopwatch{
-  
-  background-image: url(./Capture.PNG);
   background-repeat: no-repeat;
   text-align: center;
   
@@ -14,6 +12,9 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.form-control{
+  margin: 2px;
 }
 .main {
   width: 500px;
